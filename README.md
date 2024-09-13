@@ -45,4 +45,4 @@
 **Written by:** Lynn Delpy  
 **Date:** 13.09.2024  
 **Prettified by:** ChatGPT
-**Copyright©2024 Lynn Delpy All rights reserved
+**Copyright©2024 Lynn Delpy All rights reserved**
