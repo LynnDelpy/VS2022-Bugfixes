@@ -34,3 +34,8 @@
    - Refer to the image below for guidance:
    
    ![NuGet.org Source Setup](images/Nuget-org.png)
+
+
+Written by Lynn Delpy 
+13.09.2024
+prettier made by ChatGPT
